@@ -1,0 +1,15 @@
+{
+    "website" : {
+      "support": "https://discord.gg/EacJUHRuyx",
+      "domain": "https://pgbott.herokuapp.com"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://pgbott.herokuapp.com/callback",
+        "clientID": "893588984826044446",
+        "secret": "8G-eEldR8BAqKYSZP1VAfsk7oZ1r4BaN"
+    }
+  }
+

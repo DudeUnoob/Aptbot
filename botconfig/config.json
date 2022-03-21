@@ -1,0 +1,17 @@
+{
+  "token": "OTU1NjEyNDQyMjkxOTk0NjY0.YjkNcA.ATAoitoYGGWWPIfnWxWY3nDJkiI",
+  "prefix": "$",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  "youtubeCookie": "",
+  "spotify_api": {
+        "enabled": false, "_COMMENT_": "Set it to false, if you want to scrape, when on true you can get spotify playlists with 100+ Tracks",
+        "clientSecret": "52ad218fe09e463f8cb9e110902946ef",
+        "clientId": "8cba16cad2e243cda21c3fcf4538e5f8"
+  },
+  "loadSlashsGlobal": true, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "maximum_leaderboard":"50",
+  "embedcolor": "#118fff",
+  "AME_API": "6f5f59280172426c821ece5adf83ac01877c0f7ad59946bf66a72c5addd2818907597db29d5512ba1170a9fbfee287bc68a755ae0306d137993a43a28393a040",
+  "mongooseConnectionString": "mongodb+srv://ZeroX:Balaram26@cluster0.aolsf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  
+}
