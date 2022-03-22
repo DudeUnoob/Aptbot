@@ -1,13 +1,13 @@
 {
     "website" : {
       "support": "https://discord.gg/EacJUHRuyx",
-      "domain": "https://pgbott.herokuapp.com"
+      "domain": "https://aptbot.up.railway.app/"
     },
     "config": {
         "http": {
           "port": 80
         },
-        "callback": "https://pgbott.herokuapp.com/callback",
+        "callback": "https://aptbot.up.railway.app/callback",
         "clientID": "893588984826044446",
         "secret": "8G-eEldR8BAqKYSZP1VAfsk7oZ1r4BaN"
     }
